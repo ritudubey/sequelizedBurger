@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Add sequelize to node, mysql",
   "main": "server.js",
+  "engines": {
+      "node": "6.5.0"
+        },
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
